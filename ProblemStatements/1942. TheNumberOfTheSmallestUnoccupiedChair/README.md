@@ -33,3 +33,12 @@ Explanation: <br>
 - Friend 2 leaves at time 6 and chair 1 becomes empty.
 - Friend 0 leaves at time 10 and chair 2 becomes empty.
 Since friend 0 sat on chair 2, we return 2.<br>
+
+### Constraints:
+
+- n == times.length
+- 2 <= n <= 10^4
+- times[i].length == 2
+- 1 <= arrival->i < leavingi <= 105
+- 0 <= targetFriend <= n - 1
+- Each arrival->i time is distinct.
