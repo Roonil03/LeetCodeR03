@@ -22,11 +22,13 @@ Explanation: <br>
 
 <b>Example 2:</b><br>
 Input: matrix = 
+```
 [
   [1,0,1],
   [1,1,0],
   [1,1,0]
 ]
+```
 Output: 7<br>
 Explanation: <br>
 - There are 6 squares of side 1.  
