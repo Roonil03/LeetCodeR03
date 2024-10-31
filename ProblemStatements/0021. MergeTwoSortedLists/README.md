@@ -9,6 +9,7 @@ Return the head of the merged linked list.
 
 ### Examples:
 <b>Example 1:</b><br>
+<img src = "https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg"><br>
 Input: list1 = [1,2,4], list2 = [1,3,4]<br>
 Output: [1,1,2,3,4,4]<br>
 
