@@ -27,7 +27,7 @@ Input: s = "([])"<br>
 Output: true<br>
 
 ### Constraints:
-- 1 <= `s.length`` <= 10^4
+- 1 <= ``s.length`` <= 10^4
 - s consists of parentheses only ``'()[]{}'``.
 
 ### <i>Concepts Used:
