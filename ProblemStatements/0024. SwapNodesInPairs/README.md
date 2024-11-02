@@ -7,7 +7,7 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
 #### Example 1:
 Input: head = ``[1,2,3,4]``<br>
 Output: ``[2,1,4,3]``<br>
-Explanation:
+Explanation:<br>
 <img src="https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg">
 
 #### Example 2:
