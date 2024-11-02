@@ -5,22 +5,22 @@ Given a linked list, swap every two adjacent nodes and return its head. You must
 
 ### Examples:
 #### Example 1:
-Input: head = ``[1,2,3,4]``
-Output: ``[2,1,4,3]``
+Input: head = ``[1,2,3,4]``<br>
+Output: ``[2,1,4,3]``<br>
 Explanation:
 <img src="https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg">
 
 #### Example 2:
-Input: head = ``[]``
-Output: ``[]``
+Input: head = ``[]``<br>
+Output: ``[]``<br>
 
 #### Example 3:
-Input: head = ``[1]``
-Output: ``[1]``
+Input: head = ``[1]``<br>
+Output: ``[1]``<br>
 
 #### Example 4:
-Input: head = ``[1,2,3]``
-Output: ``[2,1,3]``
+Input: head = ``[1,2,3]``<br>
+Output: ``[2,1,3]``<br>
 
 ### Constraints:
 - The number of nodes in the list is in the range ``[0, 100]``.
