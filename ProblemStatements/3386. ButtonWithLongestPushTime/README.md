@@ -33,3 +33,5 @@ Explanation:
 - `events[i]` == `[indexi, timei]`
 - 1 <= `indexi`, `timei` <= 10^5
 - The input is generated such that events is sorted in increasing order of `timei`.
+
+### <i>Weekly Contest Question </i>

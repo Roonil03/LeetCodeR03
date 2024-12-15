@@ -54,3 +54,5 @@ Explanation:
 - `rates2.length` == m
 - 1.0 <= `rates1[i]`, `rates2[i]` <= 10.0
 - The input is generated such that there are no contradictions or cycles in the conversion graphs for either day.
+
+### <i>Weekly Contest Question </i>
