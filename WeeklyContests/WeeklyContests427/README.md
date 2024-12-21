@@ -1,6 +1,6 @@
 # Weekly Contest 427
 
-## Ranking: 4830
+## Ranking: 4737 / 22325
 
 ## Question 1:
 <i>Transformed Array</i>

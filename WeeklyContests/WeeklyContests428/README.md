@@ -1,5 +1,5 @@
 # Weekly Contest 428
-## Ranking: 6234
+## Ranking: 6119 / 23902
 ## Question 1:
 <i>Button with Longest Push Time</i>
 ### Difficult: Easy
