@@ -27,3 +27,5 @@ By adding -1 to `nums[0]` and 1 to `nums[1]`, nums changes to `[3, 5, 4, 4]`.
 - 1 <= `nums.length` <= 10^5
 - 1 <= `nums[i]` <= 10^9
 - 0 <= `k` <= 10^9
+
+### <i>Weekly Contest Question</i>
