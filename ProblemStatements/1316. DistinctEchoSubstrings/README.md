@@ -14,3 +14,14 @@ Explanation: The 3 substrings are `"abcabc"`, `"bcabca"` and `"cabcab"`.<br>
 Input: text = `"leetcodeleetcode"`<br>
 Output: 2<br>
 Explanation: The 2 substrings are `"ee"` and `"leetcodeleetcode"`.<br>
+
+### Constraints:
+
+- 1 <= `text.length` <= 2000
+- text has only lowercase English letters.
+
+### <i>Concepts Used:
+- String
+- Trie
+- Rolling Hash
+- Hash Function </i>
