@@ -1,5 +1,5 @@
 # Weekly Contests 429
-## Rank: 
+## Rank: 7863 / 22810
 ## Question 1:
 <i>Minimum Number of Operations to Make Elements in Array Distinct</i>
 ### Difficulty: Easy

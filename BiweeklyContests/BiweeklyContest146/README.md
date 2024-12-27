@@ -1,5 +1,5 @@
 # Biweekly Contest 146
-## Ranking: 5227
+## Ranking: 4965 / 25692
 ## Question 1:
 <i>Count Subarrays of Length Three With a Condition</i>
 ### Difficulty: Easy
