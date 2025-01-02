@@ -1,5 +1,5 @@
 # Weekly Contests 430
-## Rank:
+## Rank: 5483 / 22451
 ## Question 1:
 <i>Minimum Operations to Make Columns Strictly Increasing</i>
 ### Difficulty: Easy
