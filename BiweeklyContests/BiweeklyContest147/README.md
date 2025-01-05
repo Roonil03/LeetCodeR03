@@ -82,12 +82,12 @@ taskManager.execTop(); // return 5. Executes task 105 for User 5.
 
 ### Constraints:
 
-1 <= `tasks.length` <= 10^5
-0 <= `userId` <= 10^5
-0 <= `taskId` <= 10^5
-0 <= `priority` <= 10^9
-0 <= `newPriority` <= 10^9
-At most 2 * 10^5 calls will be made in total to `add`, `edit`, `rmv`, and `execTop` methods.
+- 1 <= `tasks.length` <= 10^5
+- 0 <= `userId` <= 10^5
+- 0 <= `taskId` <= 10^5
+- 0 <= `priority` <= 10^9
+- 0 <= `newPriority` <= 10^9
+- At most 2 * 10^5 calls will be made in total to `add`, `edit`, `rmv`, and `execTop` methods.
 
 
 ## Question 3:
