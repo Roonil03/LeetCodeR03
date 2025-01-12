@@ -1,5 +1,5 @@
 # Biweekly Contest 147
-## Ranking: 
+## Ranking: 8581 / 26988
 ## Question 1:
 <i>Substring Matching Pattern</i>
 ### Difficulty: Easy

@@ -1,5 +1,5 @@
 # Weekly Contests 431
-## Ranking:
+## Ranking: 8990 / 24190
 ## Question 1:
 <i>Maximum Subarray With Equal Products</i>
 ### Difficulty: Easy
