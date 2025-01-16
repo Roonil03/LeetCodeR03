@@ -1,5 +1,5 @@
 # Weekly Contests 432
-## Ranking:
+## Ranking: 1209 / 27291
 ## Question 1:
 <i>Zigzag Grid Traversal With Skip</i>
 ### Difficulty: Easy
