@@ -40,4 +40,9 @@ Explanation: `[1,7,28,19,10]` is the lexicographically smallest array we can obt
 - 1 <= `nums.length` <= 10^5
 - 1 <= `nums[i]` <= 10^9
 - 1 <= `limit` <= 10^9
+
+### <i>Concepts Used:
+- Array
+- Union Find
+- Sorting </i>
  
