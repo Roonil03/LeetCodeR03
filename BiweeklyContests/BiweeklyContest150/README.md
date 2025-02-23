@@ -1,5 +1,5 @@
 # Biweekly Contest 150
-## Ranking: 
+## Ranking: 389 / 34958
 ## Question 1:
 <i>Sum of Good Numbers</i>
 ### Difficulty: Easy
