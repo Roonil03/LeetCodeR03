@@ -21,3 +21,6 @@ Output: 1
 ### Constraints:
 
 - 1 <= n <= 1000
+
+### <i>Concepts Used:
+- Dynamic Programming</i>
