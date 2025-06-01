@@ -1,5 +1,5 @@
 # Weekly Contests 434
-## Ranking:
+## Ranking: 389 / 34958
 ## Question 1:
 <i>Count Partitions with Even Sum Difference</i>
 ### Difficulty: Easy
