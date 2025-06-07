@@ -1,5 +1,5 @@
 # Weekly Contest 452
-## Ranking:
+## Ranking: 1262 / 28356
 ## Question 1:
 *Partition Array into Two Equal Product Subsets*
 ### Difficulty: Medium
