@@ -2,6 +2,8 @@
 ## Ranking: 
 ## Question 1:
 *Generate Tag for Video Caption*
+### Difficulty: Easy
+### Points: 3
 ### Description:
 You are given a string caption representing the caption for a video.
 
@@ -51,6 +53,8 @@ Since the first word has length 101, we need to truncate the last two letters fr
 
 ## Question 2:
 *Count Special Triplets*
+### Difficulty: Medium
+### Points: 4
 ### Description:
 You are given an integer array nums.
 
@@ -113,6 +117,8 @@ There are exactly two special triplets:
 
 ## Question 3:
 *Maximum Product of First and Last Elements of a Subsequence*
+### Difficulty: Medium
+### Points: 5
 ### Description:
 You are given an integer array nums and an integer m.
 
@@ -159,6 +165,8 @@ The subsequence `[5, 7]` has the largest product of the first and last elements.
 
 ## Question 4:
 *Find Weighted Median Node in Tree*
+### Difficulty: Hard
+### Points: 7
 ### Description:
 You are given an integer n and an undirected, weighted tree rooted at node 0 with n nodes numbered from 0 to n - 1. This is represented by a 2D array edges of length n - 1, where `edges[i]` = `[u`<sup>`i`</sup>`, v`<sup>`i`</sup>`, w`<sup>`i`</sup>`]` indicates an edge from node u<sup>i</sup> to v<sup>i</sup> with weight w<sup>i</sup>.
 
