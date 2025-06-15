@@ -20,3 +20,9 @@ Output: `[1,1,0]`
 
 - 1 <= `temperatures.length` <= 10<sup>5</sup>
 - 30 <= `temperatures[i]` <= 100
+
+### <i>Concepts Used:
+- Array
+- Stack
+- Monotonic Stack
+</i>
