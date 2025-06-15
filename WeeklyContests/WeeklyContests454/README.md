@@ -63,7 +63,7 @@ Return the total number of special triplets in the array.
 
 Since the answer may be large, return it modulo 10<sup>9</sup> + 7.
 
-### Examples:
+### Testcases:
 #### Example 1:
 
 Input: nums = `[6,3,6]`
@@ -120,7 +120,7 @@ Return the maximum product of the first and last elements of any subsequence of 
 
 A subsequence is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.
 
-### Examples:
+### Testcases:
 #### Example 1:
 
 Input: nums = `[-1,-9,2,3,-2,-3,1]`, m = 1
@@ -168,7 +168,7 @@ You are given a 2D integer array queries. For each `queries[j]` = `[u`<sup>`j`</
 
 Return an array ans, where `ans[j]` is the node index of the weighted median for `queries[j]`.
 
-### Examples:
+### Testcases:
 #### Example 1:
 
 Input: n = 2, edges = `[[0,1,7]]`, queries = `[[1,0],[0,1]]`
