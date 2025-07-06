@@ -1,5 +1,5 @@
 # Weekly Contest 454
-## Ranking: 
+## Ranking: 4953 / 28300
 ## Question 1:
 *Generate Tag for Video Caption*
 ### Difficulty: Easy

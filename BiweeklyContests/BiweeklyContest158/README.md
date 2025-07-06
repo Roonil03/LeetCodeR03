@@ -1,5 +1,5 @@
 # Biweekly Contest 158
-## Ranking: 
+## Ranking: 5944 / 27001
 ## Question 1:
 *Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values*
 ### Difficulty: Medium
