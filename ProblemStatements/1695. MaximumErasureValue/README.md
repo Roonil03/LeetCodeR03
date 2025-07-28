@@ -23,3 +23,8 @@ Explanation: The optimal subarray here is `[5,2,1]` or `[1,2,5]`.
 
 - 1 <= `nums.length` <= 10<sup>5</sup>
 - 1 <= `nums[i]` <= 10<sup>4</sup>
+
+### <i>Concepts Used:
+- Array
+- Hash Table
+- Sliding Window</i>
