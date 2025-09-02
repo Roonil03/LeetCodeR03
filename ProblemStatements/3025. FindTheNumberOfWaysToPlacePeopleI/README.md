@@ -48,3 +48,17 @@ Explanation:
 - The left one is the pair `(points[2], points[0])`, where `points[2]` is on the upper left side of `points[0]` and there are no other points on the line they form. Note that it is a valid state when the two points form a line.
 - The middle one is the pair `(points[1], points[2])`, it is a valid pair same as the left one.
 - The right one is the pair `(points[1], points[0])`, it is not a valid pair as `points[2]` is on the border of the rectangle.
+
+### Constraints:
+
+- 2 <= `n` <= 50
+- `points[i].length` == 2
+- 0 <= `points[i][0]`, `points[i][1]` <= 50
+- All `points[i]` are distinct.
+
+### <i>Concepts Used:
+- Array
+- Math
+- Geometry
+- Sorting
+- Enumeration</i>
