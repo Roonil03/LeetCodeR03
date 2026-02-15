@@ -1,5 +1,5 @@
 # Biweekly Contest 160
-## Ranking:
+## Ranking: 223 / 29470
 ## Question 1:
 *Hexadecimal and Hexatrigesimal Conversion*
 ### Difficulty: Easy
