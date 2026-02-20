@@ -1,5 +1,5 @@
 # Biweekly Contest 176
-## Ranking:
+## Ranking: 395 / 41954
 ## Question 1:
 *Weighted Word Mapping*
 ### Difficulty: Easy
