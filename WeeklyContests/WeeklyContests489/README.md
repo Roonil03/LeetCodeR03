@@ -1,5 +1,5 @@
 # Weekly Contest 489
-## Ranking:
+## Ranking: 192 / 41142
 ## Question 1:
 *Toggle Light Bulbs*
 ### Difficulty: Easy
