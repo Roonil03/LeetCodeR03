@@ -1,0 +1,2 @@
+-- Write your PostgreSQL query statement below
+select round(100.0 * count(case when order_date = customer_pref_delivery_date then 1 end) / count(*), 2) as immediate_percentage from (select customer_id, order_date, customer_pref_delivery_date, Row_Number() over (partition by customer_id order by order_date) as rn from delivery) first_orders where rn = 1;
