@@ -1,5 +1,5 @@
 # Weekly Contest 490
-## Ranking: 
+## Ranking: 202 / 43027
 ## Question 1:
 *Find the Score Difference in a Game*
 ### Difficulty: Medium
