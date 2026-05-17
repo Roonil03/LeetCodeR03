@@ -1,5 +1,5 @@
 # Weekly Contest 497
-## Ranking:
+## Ranking: 250 / 35968
 ## Question 1:
 *Find the Degree of Each Vertex*
 ### Difficulty: Easy
