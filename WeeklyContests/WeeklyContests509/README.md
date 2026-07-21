@@ -1,5 +1,5 @@
 # Weekly Contest 509
-## Ranking:
+## Ranking: 3207 / 38791
 ## Question 1:
 *Sum of Integers with Maximum Digit Range*
 ### Difficulty: Easy
