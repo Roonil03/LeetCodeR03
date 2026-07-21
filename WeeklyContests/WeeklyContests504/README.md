@@ -1,5 +1,5 @@
 # Weekly Contest 504
-## Ranking: 
+## Ranking: 1025 / 34267
 ## Question 1:
 *Digit Frequency Score*
 ### Difficulty: Easy
