@@ -1,5 +1,5 @@
 # Weekly Contest 511
-## Ranking:
+## Ranking: 1718 / 40827
 ## Question 1:
 *Even Number of Knight Moves*
 ### Difficulty: Easy
