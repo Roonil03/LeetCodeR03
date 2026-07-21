@@ -1,5 +1,5 @@
 # Biweekly Contest 187
-## Ranking:
+## Ranking: 1419 / 39918
 ## Question 1:
 *Rearrange String to Avoid Character Pair*
 ### Difficulty: Easy
