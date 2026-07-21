@@ -1,5 +1,5 @@
 # Biweekly Contest 185
-## Ranking:
+## Ranking: 1239 / 39261
 ## Question 1:
 *Create Grid With Exactly One Path*
 ### Difficulty: Easy
