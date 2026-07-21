@@ -1,5 +1,5 @@
 # Weekly Contest 502
-## Ranking:
+## Ranking: 372 / 31204
 ## Question 1:
 *Check Adjacent Digit Differences*
 ### Difficulty: Easy
