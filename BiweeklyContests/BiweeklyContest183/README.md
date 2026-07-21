@@ -1,5 +1,5 @@
 # Biweekly Contest 183
-## Ranking: 
+## Ranking: 140 / 29639
 ## Question 1:
 *Minimum Swaps to Move Zeros to End*
 ### Difficulty: Easy
