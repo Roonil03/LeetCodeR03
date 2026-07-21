@@ -1,5 +1,5 @@
 # Weekly Contest 506
-## Ranking:
+## Ranking: 85 / 36775
 ## Question 1:
 *Check Good Integer*
 ### Difficulty: Easy
