@@ -1,5 +1,5 @@
 # Weekly Contest 503
-## Ranking:
+## Ranking: 426 / 31301
 ## Question 1:
 *Limit Occurrences in Sorted Array*
 ### Difficulty: Easy
