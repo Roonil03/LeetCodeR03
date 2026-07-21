@@ -1,5 +1,5 @@
 # Weekly Contest 510
-## Ranking:
+## Ranking: 651 / 40113
 ## Question 1:
 *Number of Elapsed Seconds Between Two Times*
 ### Difficulty: Easy
