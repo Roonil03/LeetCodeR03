@@ -1,5 +1,5 @@
 # Biweekly Contest 186
-## Ranking:
+## Ranking: 3966 / 39050
 ## Question 1:
 *Unique Middle Element*
 ### Difficulty: Easy
