@@ -1,5 +1,5 @@
 # Weekly Contest 508
-## Ranking:
+## Ranking: 737 / 37970
 ## Question 1:
 *Maximum Total Sum of K Selected Elements*
 ### Difficulty: Medium
