@@ -1,0 +1,2 @@
+-- Write your PostgreSQL query statement below
+SELECT e.employee_id, e.name, COUNT(f.employee_id) as reports_count, ROUND(AVG(f.age)) AS average_age from Employees e JOIN Employees f ON f.reports_to = e.employee_id GROUP BY e.employee_id, e.name ORDER BY e.employee_id;
