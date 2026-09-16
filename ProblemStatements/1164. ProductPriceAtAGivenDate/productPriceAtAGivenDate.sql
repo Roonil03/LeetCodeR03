@@ -1,0 +1,2 @@
+-- Write your PostgreSQL query statement below
+SELECT DISTINCT product_id, COALESCE((SELECT new_price FROM Products WHERE product_id = t.product_id AND change_date <= '2019-08-16' ORDER BY change_date DESC LIMIT 1), 10) AS price from Products t;
