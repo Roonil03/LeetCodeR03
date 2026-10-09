@@ -1,0 +1,53 @@
+# 2881. Create a New Column
+## Question Level: Easy
+### Description:
+```sql
+DataFrame employees
++-------------+--------+
+| Column Name | Type.  |
++-------------+--------+
+| name        | object |
+| salary      | int.   |
++-------------+--------+
+```
+A company plans to provide its employees with a bonus.
+
+Write a solution to create a new column name bonus that contains the doubled values of the salary column.
+
+The result format is in the following example.
+
+### Examples:
+#### Example 1:
+
+Input:
+```sql
+DataFrame employees
++---------+--------+
+| name    | salary |
++---------+--------+
+| Piper   | 4548   |
+| Grace   | 28150  |
+| Georgia | 1103   |
+| Willow  | 6593   |
+| Finn    | 74576  |
+| Thomas  | 24433  |
++---------+--------+
+```
+Output:
+```sql
++---------+--------+--------+
+| name    | salary | bonus  |
++---------+--------+--------+
+| Piper   | 4548   | 9096   |
+| Grace   | 28150  | 56300  |
+| Georgia | 1103   | 2206   |
+| Willow  | 6593   | 13186  |
+| Finn    | 74576  | 149152 |
+| Thomas  | 24433  | 48866  |
++---------+--------+--------+
+```
+Explanation:   
+A new column bonus is created by doubling the value in the column salary.
+
+### <i>Concepts Used:
+- Pandas</i>
